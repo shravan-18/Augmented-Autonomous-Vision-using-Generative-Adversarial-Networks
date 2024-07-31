@@ -20,7 +20,7 @@ The CycleGAN model operates using two main components: a generator and a discrim
 
 Below is the overall model workflow diagram, illustrating the CycleGAN architecture and its components:
 
-![Model Workflow](https://github.com/shravan-18/AMD-Pervasive-AI-Developer-Contest/workflow.png)
+![Model Workflow](https://github.com/shravan-18/AMD-Pervasive-AI-Developer-Contest/blob/main/workflow.png)
 
 ## Instructions for Day-Night CycleGAN
 
