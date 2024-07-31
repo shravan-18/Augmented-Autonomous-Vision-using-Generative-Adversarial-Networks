@@ -108,7 +108,7 @@ This project is a collaborative effort made possible by the contributions of the
 
 - **[Aravintakshan S A](https://github.com/ARAVINT-S-A)**: Focused on the generator architecture.
   
-- - **[Shravan (Myself)](https://github.com/shravan-18)**: Worked on the discriminator architecture, generator architecture, and code management.
+- **[Shravan (Myself)](https://github.com/shravan-18)**: Worked on the discriminator architecture, generator architecture, and code management.
 
 We appreciate each of our contributions and the expertise they brought to this project. For more details on their work, you can check out their individual GitHub profiles.
 
