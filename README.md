@@ -4,6 +4,12 @@ This repository contains a CycleGAN implementation for translating images betwee
 
 This repository contains a CycleGAN implementation for translating images between day and night domains. The CycleGAN model is designed to generate realistic images of the opposite lighting condition, making it useful for applications such as autonomous driving, urban planning, and data augmentation.
 
+## Model Workflow
+
+Below is the overall model workflow diagram, illustrating the CycleGAN architecture and its components:
+
+![Model Workflow](https://github.com/shravan-18/AMD-Pervasive-AI-Developer-Contest/blob/main/workflow.png)
+
 ## What is our project about?
 
 Our project involves developing a CycleGAN model to translate images between day and night scenes. The aim is to create a model capable of generating realistic nighttime images from daytime inputs and vice versa, enhancing the versatility of visual data for various applications.
@@ -15,12 +21,6 @@ The inspiration for this project stems from the growing need for robust image tr
 ## How does it work?
 
 The CycleGAN model operates using two main components: a generator and a discriminator. The generator learns to translate images from one domain (day) to another (night) and vice versa, while the discriminator evaluates the authenticity of these generated images. By iteratively training both components, the model improves its ability to create realistic images in the target domain. The CycleGAN architecture ensures that the generated images maintain consistent features and details, even when translated across different lighting conditions.
-
-## Model Workflow
-
-Below is the overall model workflow diagram, illustrating the CycleGAN architecture and its components:
-
-![Model Workflow](https://github.com/shravan-18/AMD-Pervasive-AI-Developer-Contest/blob/main/workflow.png)
 
 ## Instructions for Day-Night CycleGAN
 
