@@ -95,3 +95,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - This implementation is inspired by the original CycleGAN paper by Zhu et al.
 - Special thanks to the open-source community for their contributions and support.
+
+## Contributions
+
+This project is a collaborative effort made possible by the contributions of the following members of the team - *NeuralNoobs*. Their hard work and dedication have been crucial to the success of this project.
+
+### Team Members
+
+- **[Pavan Kumar S](https://github.com/pavan-0725)**: Responsible for documentation and the training pipeline.
+
+- **[Abeshek A](https://github.com/Abeshek-03)**: Abeshek A was responsible for developing the data preprocessing pipeline, ensuring that the datasets were properly prepared and augmented for training.
+
+- **[Aravintakshan S A](https://github.com/ARAVINT-S-A)**: Focused on the generator architecture.
+  
+- - **[Shravan (Myself)](https://github.com/shravan-18)**: Worked on the discriminator architecture, generator architecture, and code management.
+
+We appreciate each of our contributions and the expertise they brought to this project. For more details on their work, you can check out their individual GitHub profiles.
+
