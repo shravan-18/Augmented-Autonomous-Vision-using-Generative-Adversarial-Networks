@@ -1,6 +1,6 @@
 # AMD-Pervasive-AI-Developer-Contest: Augmented Autonomous Vision using Generative Adversarial Networks
 
-This repository contains a CycleGAN implementation for translating images between day and night domains. The CycleGAN model is designed to generate realistic images of the opposite lighting condition, making it useful for applications such as autonomous driving, urban planning, and data augmentation. Please visit ![Model Workflow](https://www.hackster.io/neuralnoobs/augmented-autonomous-vision-using-gans-d219f6) to view our submission for the same.
+This repository contains a CycleGAN implementation for translating images between day and night domains. The CycleGAN model is designed to generate realistic images of the opposite lighting condition, making it useful for applications such as autonomous driving, urban planning, and data augmentation. Please visit [Model Workflow](https://www.hackster.io/neuralnoobs/augmented-autonomous-vision-using-gans-d219f6) to view our submission for the same.
 
 This repository contains a CycleGAN implementation for translating images between day and night domains. The CycleGAN model is designed to generate realistic images of the opposite lighting condition, making it useful for applications such as autonomous driving, urban planning, and data augmentation.
 
